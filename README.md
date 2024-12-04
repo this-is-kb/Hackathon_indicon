@@ -15,6 +15,8 @@ This project addresses bed shortages in government hospitals by developing a dua
 ### **Overview**
 Efficient management of hospital beds is critical for healthcare delivery, especially during peak demands. This project aims to predict hospital bed availability using machine learning models, providing insights for better resource allocation and reducing patient wait times.
 
+The overall flow of our method is shown in the figure below.
+![Method Overview](method_overview.png)
 ---
 
 ### **Getting Started**
