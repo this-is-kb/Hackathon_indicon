@@ -17,6 +17,8 @@ Efficient management of hospital beds is critical for healthcare delivery, espec
 
 The overall flow of our method is shown in the figure below.
 ![Method Overview](method_overview.png)
+
+<img src="method_overview.png" alt="Method Overview" width="600">
 ---
 
 ### **Getting Started**
