@@ -61,8 +61,3 @@ Efficient management of hospital beds is critical for healthcare delivery, espec
 We encourage contributions! Open issues or submit pull requests to improve this project further.
 
 ---
-
-### **License**
-This project is licensed under the [MIT License](./LICENSE).
-
----
