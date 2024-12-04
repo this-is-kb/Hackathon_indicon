@@ -1,7 +1,8 @@
 # Hackathon_indicon
-This project addresses bed shortages in government hospitals by developing a dual-stage AI-driven solution to predict patient length of stay (LOS) and bed availability.
 
 ### Project Title: "Smart Bed Management: Predicting Hospital Bed Availability for Efficient Healthcare Delivery"
+
+This project addresses bed shortages in government hospitals by developing a dual-stage AI-driven solution to predict patient length of stay (LOS) and bed availability.
 
 ---
 
