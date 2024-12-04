@@ -16,6 +16,34 @@ Efficient management of hospital beds is critical for healthcare delivery, espec
 
 ---
 
+### **Getting Started**
+
+#### Clone the Repository
+```bash
+git clone https://github.com/this-is-kb/Hackathon_indicon.git
+cd Hackathon_indicon
+```
+
+#### Install Dependencies
+Install the required Python libraries using the `requirements.txt` file:
+```bash
+pip install -r requirements.txt
+```
+
+#### Run the Python Script
+Execute the modular script for data processing, model training, and evaluation:
+```bash
+python main.py
+```
+
+#### Explore the Jupyter Notebook
+Open the notebook file for an interactive view:
+```bash
+jupyter notebook smart_bed_management.ipynb
+```
+
+---
+
 ### **Key Metrics**
 
 | **Metric**          | **What It Measures**                                   | **Ideal Value** |
